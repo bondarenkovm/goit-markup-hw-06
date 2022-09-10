@@ -348,6 +348,7 @@ button {
 }
 .modal-form-check-line {
   display: flex;
+  justify-content: center;
   align-items: center;
   margin-bottom: 30px;
   line-height: 1.71;
